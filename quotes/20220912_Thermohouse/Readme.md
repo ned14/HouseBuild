@@ -6,14 +6,15 @@ Outhouse: €40k inc VAT (note that they omitted the insulated floor)
 
 # Includes:
 
-- Substructure and **Outer** Superstructure, no Windows nor Doors, no Foundations, no Services.
+- Substructure and **Outer** Superstructure, no Windows nor Doors, no Foundations, no Ground Floor, no Services.
+- First floor.
 
 # Excludes:
 
 - Structural Engineering
 - Excavation and backfilling
 - Foundations
-- Ground floor
+- **Ground floor**
 - Window cills
 - Stairs
 - **Most of the internal walls**
