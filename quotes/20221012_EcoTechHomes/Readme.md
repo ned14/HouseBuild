@@ -17,7 +17,7 @@ Outhouse: not quoted
 - Excavation
 - Scaffolding
 - Waste removal
-- Floors: 0.10; Walls: 0.15; Roof (sloping): 0.14; Roof (flat): 0.11.
+- Floors: 0.11; Walls: 0.15; Roof (sloping): 0.14; Roof (flat): 0.11.
 - Internal walls: 100mm quilt wool insulation.
 - **Guaranteed air tightness < 0.6 ACH to meet passive spec**
 
