@@ -10,7 +10,7 @@ Cygnum systems brochure: https://cygnum.ie/wp-content/uploads/2016/09/Cygnum-bro
 
 - Walls: 0.15 (with external block leaf); Roof: 0.14.
 - Structural Engineering and system design work
-- Air tightness test. It will meet NZEB, unsure if it would meet PH spec (I would assume it will).
+- Air tightness test. I don't know how this works when they don't fit the windows and doors. It will meet NZEB, unsure if it would meet PH spec (I would assume it will).
 
 # Excludes:
 

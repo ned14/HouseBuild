@@ -10,7 +10,7 @@ Kingspan systems brochure: https://www.futuretek.ie/wp-content/uploads/TEK-172-m
 
 - Walls: 0.15 (with external block leaf); Roof: 0.15.
 - Structural Engineering and system design work
-- Air tightness test < 0.6 ACH guaranteed.
+- Air tightness test < 0.6 ACH guaranteed. Not sure how this works when they don't fit the windows and doors?
 
 # Excludes:
 
