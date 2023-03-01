@@ -12,11 +12,13 @@ The exterior LED strips have already been purchased:
 
 - 50x 5m IP67 Tube Waterproof 24v SMD 5050, 60 LEDs/metre
     - To be used edges of house fascia, edges of site.
-    - Probably max 60w 2.5 amp on the anode.
+    - Listing claimed max 12w/metre and 350-450 mcd/LED. Likely 20% worse.
+    - Probably max 72w 3.0 amp on the anode.
     
 - 4x 5m 1P67 Tube Waterproof 24v **double row** SMD 5050, 120 LEDs/metre
     - To be used where more brightness is needed e.g. western wall outhouse passage, inside of shipping container
-    - Probably max 90w 4 amp on the anode, may be able to get more brightness if both ends are wired in as the common anode will limit max current. Strictly speaking only the +24v common anode needs wiring in at both ends.
+    - Listing claimed 16w/metre and 18-20 lumen/LED. Empirical testing found 20w/metre (listing was 20% under this), and 2,200 lumen/metre from subjective sight seems generous.
+    - Max 100w 4.2 amp on the anode, may be able to get more brightness if both ends are wired in as the common anode will limit max current. Strictly speaking only the +24v common anode needs wiring in at both ends.
 
 ## Interior
 
