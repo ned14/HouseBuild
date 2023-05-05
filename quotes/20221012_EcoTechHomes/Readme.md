@@ -42,3 +42,10 @@ Outhouse: not quoted
 
 - Nicely compatible with the stage drawdown payments Irish banks use.
 - Cheaper than the QS builder's finish estimate (€633k), but does less stuff -- I reckon €20k of stuff from the QS estimate is obviously removed. I would wonder if the quote might rise slightly when he sees construction detail, as the quote did not seem overly detail focused.
+- Looks weirdly similar in technology and spec to the Eco 220 system from https://www.llstructures.ie/wall-systems/
+who are a Galway based timber frame builder also using cellulose insulation.
+So much so in fact so I've downloaded the ACDs from there into here, as
+I reckon them almost identical.
+- The only other 220 mm thick cellulose filled panel I can find in Ireland
+is Carrigaline's Eco Timber Systems https://ecotimbersystems.ie/timber-systems/wall-systems/220-passive/.
+Note that it is within PHPP, which will save time.
