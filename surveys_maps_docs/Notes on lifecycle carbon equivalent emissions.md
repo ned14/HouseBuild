@@ -24,7 +24,17 @@ house might use, I assume it isn't a huge amount per m<sup>2</sup>.
 - CEM III (used in readymix) is 371-512 kg of embodied CO<sub>2e</sub> per metric tonne.
 - Solid concrete blocks appear to be 10.6 kg of embodied CO<sub>2e</sub>
 per m<sup>2</sup>. A m<sup>2</sup> of concrete block weighs 142.5 kg, therefore
-that is 74.4 kg of embodied CO<sub>2e</sub> per metric tonne..
+that is 74.4 kg of embodied CO<sub>2e</sub> per metric tonne.
+- Steel girders is 1,490 kg of embodied CO<sub>2e</sub> per metric tonne.
+
+You can get more detailed EPDs (yet to do):
+
+- Sodra of Sweden supply the structural timber, mainly from Sweden and Finland.
+- Roof trusses and/or rafters from Sodra or Balcas.
+- Loose rafters from Glennon Bros mills.
+- OSB by Coillte, Irish sourced timber.
+- Plasterboard is from Gyproc, Irish manufacturer though surely the gypsum is
+from abroad.
 
 ### Installation
 
@@ -35,6 +45,7 @@ windows plus thicker insulation embodies lots more carbon).
 - 2 metric tonnes for the lithium batteries.
 - 2.5 metric tonnes for the hybrid inverter.
 - 12.2 metric tonnes for the solar panels.
+- ? for the steel girders pinning the insides together.
 - ? for the thermal store.
 - ? for heavy lorry transport of all the above.
 
