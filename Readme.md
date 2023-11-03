@@ -9,11 +9,11 @@ Password: jeuCFyiGwG (model was last updated Oct 11 2022)
 
 Current floor plans:
 
-<img width="100%" src="https://github.com/ned14/HouseBuild/blob/main/20230425_current_floor_plans_gf.png">
+<img width="100%" src="https://github.com/ned14/HouseBuild/blob/main/20231101_current_floor_plans_gf.png">
 
-<img width="100%" src="https://github.com/ned14/HouseBuild/blob/main/20230425_current_floor_plans_ff.png">
+<img width="100%" src="https://github.com/ned14/HouseBuild/blob/main/20231101_current_floor_plans_ff.png">
 
-<img width="100%" src="https://github.com/ned14/HouseBuild/blob/main/20230425_current_floor_plans_rf.png">
+<img width="100%" src="https://github.com/ned14/HouseBuild/blob/main/20231101_current_floor_plans_rf.png">
 
 <img width="100%" src="https://github.com/ned14/HouseBuild/blob/main/20230425_current_floor_plans_oh1.png">
 
