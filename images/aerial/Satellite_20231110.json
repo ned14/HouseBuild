@@ -1,0 +1,21 @@
+{
+  "satellite": "JL1GF03D33",
+  "cloud_percentage": 19.0,
+  "satellite_azimuth": 285.441,
+  "satellite_zenith": 77.4249,
+  "solar_azimuth": 172.419,
+  "solar_zenith": 20.3652,
+  "capture_time": "2023-11-10T11:49:37+00:00",
+  "gsd_meters_y": 0.75,
+  "gsd_meters_x": 0.75,
+  "data_bits": 12,
+  "band_order": [
+    "R",
+    "G",
+    "B",
+    "NIR"
+  ],
+  "nodata_value": 0,
+  "processing_level": "ORTHO",
+  "crs": "EPSG:32629"
+}
