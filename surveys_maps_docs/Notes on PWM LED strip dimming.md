@@ -34,7 +34,7 @@ The two choices of MOSFET on convenient breakout boards and which are cheap are 
 
 I have a bunch of single channel IRF520N boards from my initial round of purchasing in 2021, and one of those powers the experimental LED strip cover lighting in the living room of my rented house. It works pretty well, albeit the MOSFET does run hot i.e. wastes energy.
 
-To see if I could improve on this, I bought 10x cheap four channel IRF540N MOSFET boards to test if that single integrated board would be feasible and save me hassle wiring up individual MOSFETs. These are optically isolated apart from ground, and have a LED wired inline to the MOSFET input which roughly lops half a volt off the signal voltage. They present a common anode, and switch the cathode only which is perfect for the LED strips. The optocoupler chip limits the output voltage to 9 - 80v, as it is powered by the output voltage.
+To see if I could improve on this, I bought 10x cheap four channel IRF540N MOSFET boards to test if that single integrated board would be feasible and save me hassle wiring up individual MOSFETs. These are optically isolated apart from ground, and have a LED wired inline to the MOSFET input which roughly lops half a volt off the signal voltage. They present a common anode, and switch the cathode only which is perfect for the LED strips. The optocoupler chip (PS2801-4) limits the output voltage to 9 - 80v, as it is powered by the output voltage.
 
 Assuming that the chinese clone MOSFETs have these characteristics:
 
@@ -91,3 +91,11 @@ These cost under €7 inc VAT delivered and provide twenty-four SPI controlled P
 In case you're thinking we could have them drive a higher voltage than 5v into the MOSFETs to save heat wastage, yes you can. But we only have available 24v or 5v, and the MOSFETs won't take more than 20v into their input without burning out.
 
 As with all the other options, these also need soldering, but the fact you can run eight LED strips from each board and with good quality dimming is attractive.
+
+### MOSFET control option 4: Use a 24v PWM dimming rotary wall switch
+
+This is the most expensive option, costing €17.20 inc VAT delivered each. Though it also saves on the cost of a wall switch, its single most attractive feature is saving me time. This is actually the one I ended up choosing, despite its expense, as my time is so very limited. I can later upgrade lighting control with ESP32 as needed.
+
+The unit I bought claimed it could work with 12v to 24v at up to 6 amps, with 180 watts specified as maximum (that doesn't make sense to me either). It claims to support five output frequencies: (i) 500 Hz (ii) 1000 Hz (iii) 2000 Hz (iv) 4000 Hz (v) 8000 Hz. This will be useful for working with MR16 bulbs, that expect an AC diming signal. I couldn't tell from the Aliexpress description if they meant dimming levels, or PWM frequency.
+
+Having received them and cracked one open, they are based on two 60N03 MOSFETs. The MOSFETs can cope with up to 30v and their control signal is TTL, and the datasheet reckons they can push up to 320 watts. There is a TM1651 LED driver control IC, but it is for the eight segment display only. An unmarked IC appears to do all the real work. A 78L05 voltage regulator takes in 0 - 30v and outputs 5v, its datasheet says it needs a minimum 7.5v to produce 5v. With 5v input it produces 3.5v, which is above TTL so a lot of ICs should still work. All the ICs with identifiers I could see their datasheets all say they're happy at 3.3v, so only the unmarked IC will be the question.
