@@ -40,6 +40,7 @@ Outhouse: not quoted
 
 # Other notes:
 - This differs from the earlier quote as it is for a 300 mm split stud with posi-joists, rather than 220 mm with normal joists. The price for the earlier spec was €361,297 inc VAT. This, obviously enough, is €110,811 more.
+- Estimated cost to Builder's Finish: €684k inc VAT.
 - Closest competing quote is TimberFrameIreland. This is from last year, but for the same 300 mm split stud:
 
     Main house: €218,328 inc VAT to first fix (€92,620 + €38,030 "The Eco Package" which is the 300 mm split stud + €2,690 + €6,740 + €860 + €51,420). This is €732 inc VAT per sqm.
@@ -48,7 +49,6 @@ Outhouse: not quoted
     - Excludes more of the groundworks (maybe worth 18k)
     - Excludes internal wall insulation
     - Excludes all plasterboard (maybe €53k though that includes labour)
-    - Excludes scaffolding hire
     - Excludes installing roof windows
     - Excludes air blower test
     - **Question:** Is roof truss and flat roof insulation included?
