@@ -1,0 +1,1804 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="420mm"
+   viewBox="0 0 297 420"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="20240423_outhouse_buildup_idea3.svg"
+   inkscape:export-filename="/mnt/milla/ned/securebackup/Banteer house/Outhouse/20240412_outhouse_buildup_idea3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1"
+     inkscape:cx="393"
+     inkscape:cy="926.5"
+     inkscape:window-width="2550"
+     inkscape:window-height="1948"
+     inkscape:window-x="1262"
+     inkscape:window-y="74"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:pageshadow="2"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#packed-circles"
+       preserveAspectRatio="xMidYMid"
+       id="pattern11"
+       patternTransform="matrix(10,0,0,10,0,6.3500003)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="1"
+       height="1.73205080756"
+       patternTransform="translate(0,0) scale(10,10)"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="packed-circles"
+       inkscape:stockid="Packed circles"
+       inkscape:label="Packed circles"
+       inkscape:isstock="true">
+      <circle
+         style="stroke:none"
+         cx="0"
+         cy="0.5"
+         r="0.5"
+         id="circle219" />
+      <circle
+         style="stroke:none"
+         cx="1"
+         cy="0.5"
+         r="0.5"
+         id="circle221" />
+      <circle
+         style="stroke:none"
+         cx="0.5"
+         cy="1.36602540378"
+         r="0.5"
+         id="circle223" />
+      <circle
+         style="stroke:none"
+         cx="0.5"
+         cy="-0.366025403784"
+         r="0.5"
+         id="circle225" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-55"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-17"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.836732,253.61852)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-55"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-4"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-1"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-8"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-8"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-3"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-52"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-4"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-8"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.836731,208.61823)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-4"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-1"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-7"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-1"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-87"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-8"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-7"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-558"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-15"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.836732,231.11824)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-558"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-2"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-9"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-82"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-0"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-7"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-4"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-2"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-6"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.836731,186.11824)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-2"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-25"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-2"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-2"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-7"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-1"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-521"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-7"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.836731,163.61824)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-6"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-0"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-0"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-9"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-5"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-62"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-8"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-0"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-9"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.836732,141.11818)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-0"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-5"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-6"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-3"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-6"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-30"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-84"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-30"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-5"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.836733,298.61864)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-30"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-48"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-55"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-5"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-4"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-2"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-1"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-25"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-86"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.836734,73.618363)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-25"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-13"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-97"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-37"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-50"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-21"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-87"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-67"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.836731,276.11863)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-9"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-41"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-61"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-20"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-44"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-5"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-9"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-63"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-55"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.836731,96.118371)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-63"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-26"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-8"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-91"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-48"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-87"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-19"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-90"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-95"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.836732,118.61824)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-90"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-9"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-3"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-40"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-75"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-75"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-0"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-25-7"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-86-6"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.836348,52.510822)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-25-7"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-13-5"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-97-3"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-37-5"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-50-6"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-21-2"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-87-9"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-55-3"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-17-0"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.837118,264.71062)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-55-3"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-4-0"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-1-9"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-8-2"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-8-5"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-3-4"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-52-0"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-4-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-8-5"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.837117,219.71033)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-4-9"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-1-4"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-7-6"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-1-9"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-87-2"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-8-2"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-7-4"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-558-7"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-15-7"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.837118,242.21034)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-558-7"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-2-5"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-9-4"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-82-8"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-0-1"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-7-2"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-4-8"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-2-3"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-6-9"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.837117,197.21033)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-2-3"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-25-6"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-2-8"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-2-0"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-7-2"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-1-1"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-521-0"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-6-1"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-7-5"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.837117,174.7102)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-6-1"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-0-1"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-0-0"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-9-8"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-5-5"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-62-0"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-8-6"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-0-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-9-4"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.837118,152.21003)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-0-6"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-5-2"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-6-5"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-3-8"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-6-6"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-30-2"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-84-8"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-30-7"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-5-4"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.837119,309.71074)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-30-7"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-48-2"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-55-4"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-5-0"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-4-6"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-2-2"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-1-9"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-25-0"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-86-9"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.83712,84.710199)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-25-0"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-13-8"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-97-1"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-37-3"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-50-1"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-21-1"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-87-0"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-25-7-4"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-86-6-3"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.836734,63.602659)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-25-7-4"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-13-5-0"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-97-3-3"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-37-5-9"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-50-6-1"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-21-2-9"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-87-9-6"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-9-3"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-67-9"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.837117,287.21073)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-9-3"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-41-3"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-61-8"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-20-0"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-44-5"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-5-6"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-9-6"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-63-0"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-55-4"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.837117,107.21023)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-63-0"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-26-0"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-8-4"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-91-6"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-48-2"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-87-6"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-19-7"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#halftones-90-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern2-95-5"
+       patternTransform="matrix(0.20274312,0,0,0.09809196,52.837118,129.71009)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="halftones-90-6"
+       x="0"
+       y="0"
+       inkscape:label="Halftones"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <g
+         id="fullPattern-9-9"
+         style="display:inline"
+         transform="scale(0.1)">
+        <circle
+           style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="circle10-3-8"
+           cx="50"
+           cy="50"
+           r="25" />
+        <path
+           id="circle37-40-7"
+           style="paint-order:markers fill stroke"
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
+        <path
+           id="circle39-75-2"
+           style="paint-order:markers fill stroke"
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
+        <path
+           id="circle43-75-8"
+           style="paint-order:markers fill stroke"
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
+        <path
+           id="circle45-0-2"
+           style="paint-order:markers fill stroke"
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      </g>
+    </pattern>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ff00ff;stroke:none;stroke-width:1.3213;stroke-opacity:1"
+       id="rect19"
+       width="135.944"
+       height="22"
+       x="21.074566"
+       y="57.717216"
+       ry="0.04564184" />
+    <rect
+       style="fill:#0000ff;stroke:none;stroke-width:0.362337;stroke-opacity:1"
+       id="rect19-9"
+       width="149.94099"
+       height="1.5"
+       x="21.075001"
+       y="56.211624"
+       ry="0.0031119436" />
+    <rect
+       style="fill:#0000ff;stroke:none;stroke-width:0.362088;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect19-9-3"
+       width="149.94099"
+       height="1.5"
+       x="21.068069"
+       y="49.697205"
+       ry="0.0031119436" />
+    <rect
+       style="fill:url(#pattern2-17);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-6"
+       width="21.794886"
+       height="10.544886"
+       x="123.91294"
+       y="281.259"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-8);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-4"
+       width="21.794886"
+       height="10.544886"
+       x="123.91294"
+       y="236.25842"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-15);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-58"
+       width="21.794886"
+       height="10.544886"
+       x="123.91294"
+       y="258.75845"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-6);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-0"
+       width="21.794886"
+       height="10.544886"
+       x="123.91294"
+       y="213.75842"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-7);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-9"
+       width="21.794886"
+       height="10.544886"
+       x="123.91294"
+       y="191.25842"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-9);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-46"
+       width="21.794886"
+       height="10.544886"
+       x="123.91294"
+       y="168.75842"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-5);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-2"
+       width="21.794886"
+       height="10.544886"
+       x="123.91294"
+       y="326.25925"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-86);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-55"
+       width="21.794886"
+       height="10.544886"
+       x="123.91294"
+       y="101.25886"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-86-6);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-55-1"
+       width="21.794886"
+       height="10.544886"
+       x="123.91255"
+       y="80.151306"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-67);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-53"
+       width="21.794886"
+       height="10.544886"
+       x="123.91294"
+       y="303.75925"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-55);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-1"
+       width="21.794886"
+       height="10.544886"
+       x="123.91294"
+       y="123.75886"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-95);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-47"
+       width="21.794886"
+       height="10.544886"
+       x="123.91294"
+       y="146.25858"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-17-0);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-6-9"
+       width="21.794886"
+       height="10.544886"
+       x="123.91332"
+       y="292.35022"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-8-5);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-4-9"
+       width="21.794886"
+       height="10.544886"
+       x="123.91332"
+       y="247.34964"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-15-7);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-58-6"
+       width="21.794886"
+       height="10.544886"
+       x="123.91332"
+       y="269.84967"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-6-9);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-0-0"
+       width="21.794886"
+       height="10.544886"
+       x="123.91332"
+       y="224.84967"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-7-5);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-9-2"
+       width="21.794886"
+       height="10.544886"
+       x="123.91332"
+       y="202.34998"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-9-4);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-46-7"
+       width="21.794886"
+       height="10.544886"
+       x="123.91332"
+       y="179.85023"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-5-4);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-2-6"
+       width="21.794886"
+       height="10.544886"
+       x="123.91332"
+       y="337.35123"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-86-9);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-55-13"
+       width="21.794886"
+       height="10.544886"
+       x="123.91332"
+       y="112.35069"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-86-6-3);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-55-1-2"
+       width="21.794886"
+       height="10.544886"
+       x="123.91294"
+       y="91.243141"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-67-9);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-53-1"
+       width="21.794886"
+       height="10.544886"
+       x="123.91332"
+       y="314.85059"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-55-4);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-1-5"
+       width="21.794886"
+       height="10.544886"
+       x="123.91332"
+       y="134.85069"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern2-95-5);fill-opacity:1;stroke:#000000;stroke-width:0.705115;stroke-opacity:1"
+       id="rect1-47-9"
+       width="21.794886"
+       height="10.544886"
+       x="123.91332"
+       y="157.35042"
+       ry="0.015888102" />
+    <rect
+       style="fill:url(#pattern11);fill-opacity:1;stroke:none;stroke-width:1.68365;stroke-opacity:1"
+       id="rect2-0"
+       width="250"
+       height="45"
+       x="21.041834"
+       y="348.37039"
+       ry="0.072887175" />
+    <rect
+       style="fill:#00ffff;stroke:none;stroke-width:0.434589;stroke-opacity:1"
+       id="rect2-4-1"
+       width="149.91299"
+       height="5"
+       x="21.098904"
+       y="51.2089"
+       ry="0.0080985753" />
+    <rect
+       style="fill:#00ffff;stroke:none;stroke-width:0.94629;stroke-opacity:1"
+       id="rect3"
+       width="20"
+       height="268.63892"
+       x="146.06319"
+       y="79.717583"
+       ry="0.029007902" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-opacity:1"
+       x="145.32419"
+       y="19.328438"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="145.32419"
+         y="19.328438">Inside wall height 2580mm. Outer wall height 3135 mm</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="146.42485"
+         y="29.911776"
+         id="tspan133315">Inside span is 4160mm. Building width is 5140mm. </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1;stroke-opacity:1"
+       x="177.79927"
+       y="88.432816"
+       id="text12-0"
+       inkscape:export-filename="/mnt/milla/ned/securebackup/Banteer house/Outhouse/20240412_outhouse_buildup_idea3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:1"
+         x="177.79927"
+         y="88.432816"
+         id="tspan116691">Wall has 200mm EPS70 insulation</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:1"
+         x="177.79927"
+         y="96.370316"
+         id="tspan160703">glued onto concrete block (cyan)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:1"
+         x="177.79927"
+         y="104.30782"
+         id="tspan17-4">0.031 W/mK thermal conductivity</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:1"
+         x="177.79927"
+         y="112.24532"
+         id="tspan18-5">3 kg per sqm</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:1"
+         x="177.79927"
+         y="120.18282"
+         id="tspan19-3">€39.62 inc VAT per sqm</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:1"
+         x="177.79927"
+         y="128.12032"
+         id="tspan168775" /><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:1"
+         x="177.79927"
+         y="136.0578"
+         id="tspan168777">50mm ventilation cavity</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:1"
+         x="177.79927"
+         y="143.9953"
+         id="tspan168779">20mm charred larch cladding</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1;stroke-opacity:1"
+       x="177.80035"
+       y="321.53024"
+       id="text12-4"><tspan
+         sodipodi:role="line"
+         id="tspan12-2"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:1"
+         x="177.80035"
+         y="321.53024">2x 100mm EPS300 insulation (green)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:1"
+         x="177.80035"
+         y="329.46774"
+         id="tspan17-6">0.032 W/mK thermal conductivity</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:1"
+         x="177.80035"
+         y="337.40524"
+         id="tspan18-7">9 kg per sqm</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:1"
+         x="177.80035"
+         y="345.34274"
+         id="tspan19-9">€40.18 inc VAT per sqm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1;stroke-opacity:1"
+       x="120.85279"
+       y="321.53104"
+       id="text12-4-7"><tspan
+         sodipodi:role="line"
+         id="tspan12-2-4"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="120.85279"
+         y="321.53104">2x 100mm EPS70 insulation (cyan)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="120.85279"
+         y="329.46854"
+         id="tspan17-6-2">0.031 W/mK thermal conductivity</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="120.85279"
+         y="337.40604"
+         id="tspan18-7-6">3 kg per sqm</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="120.85278"
+         y="345.34354"
+         id="tspan19-9-5">€39.62 inc VAT per sqm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1;stroke-opacity:1"
+       x="121.60828"
+       y="192.98465"
+       id="text13"><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="121.60827"
+         y="192.98465"
+         id="tspan14">215 mm x 100 mm solid blocks 7.5N</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="121.60827"
+         y="200.92215"
+         id="tspan15">1.33 W/mK thermal conductivity</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="121.60827"
+         y="208.85965"
+         id="tspan37">€28.28 inc VAT per sqm</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="121.60828"
+         y="216.79715"
+         id="tspan38" /><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="121.60828"
+         y="224.73465"
+         id="tspan16">20 kg each so 24 high would</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="121.60827"
+         y="232.67215"
+         id="tspan35">create pressure at base of 5.1</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="121.60828"
+         y="240.60965"
+         id="tspan33821">tonnes per sqm. EPS300 can take 12</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="121.60827"
+         y="248.54715"
+         id="tspan43">tonnes per sqm at 1% deformation.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="121.60828"
+         y="256.48465"
+         id="tspan62032">EPS200 can take 9 tonnes per sqm</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="121.60828"
+         y="264.42215"
+         id="tspan74100">at 1%. EPS70 can take 2.1 tonnes</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="123.25926"
+         y="272.35965"
+         id="tspan33837">per sqm. </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1;stroke-opacity:1"
+       x="121.0779"
+       y="89.116173"
+       id="text13-3"><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="121.0779"
+         y="89.116173"
+         id="tspan15-4">220 x 44 C24 timber joists at 622</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="121.0779"
+         y="97.053673"
+         id="tspan22">centres with 18mm OSB on top,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="121.0779"
+         y="104.99117"
+         id="tspan91569">with 50mm unbroken EPS70,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="121.0779"
+         y="112.92867"
+         id="tspan91571">then another 18mm OSB, then roof</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="121.0779"
+         y="120.86617"
+         id="tspan24">membrane. Filled with 200mm EPS70</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="121.0779"
+         y="128.80367"
+         id="tspan26">insulation leaving 20 mm service</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="121.0779"
+         y="136.74117"
+         id="tspan91586">cavity below. Joist ends thermally</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:end;text-anchor:end;stroke-width:1"
+         x="121.0779"
+         y="144.67867"
+         id="tspan27">broken by 100mm thick EPS70.</tspan></text>
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.509602;stroke-opacity:1"
+       id="rect16"
+       width="1.8"
+       height="313.56326"
+       x="171.084"
+       y="34.803127"
+       ry="0.053171542" />
+    <rect
+       style="fill:#00ff00;stroke:none;stroke-width:0.501965;stroke-opacity:1"
+       id="rect2"
+       width="50"
+       height="20"
+       x="116.04137"
+       y="348.34769"
+       ry="0.032394301" />
+    <rect
+       style="fill:#00ffff;stroke:none;stroke-width:0.691935;stroke-opacity:1"
+       id="rect2-1"
+       width="95.006348"
+       height="20"
+       x="21.041859"
+       y="348.34772"
+       ry="0.032394301" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1;stroke-opacity:1"
+       x="63.953239"
+       y="400.01245"
+       id="text28"><tspan
+         sodipodi:role="line"
+         id="tspan28"
+         style="fill:#000000;stroke:none;stroke-width:1"
+         x="63.953239"
+         y="400.01245">200mm T2 stone with 50mm of T3 blinding above</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1;stroke-opacity:1"
+       x="177.96481"
+       y="188.96011"
+       id="text29"><tspan
+         sodipodi:role="line"
+         id="tspan29"
+         style="font-size:9.87778px;text-align:start;text-anchor:start;stroke-width:1"
+         x="177.96481"
+         y="188.96011">U-values:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:9.87778px;text-align:start;text-anchor:start;stroke-width:1"
+         x="177.96481"
+         y="201.30734"
+         id="tspan30">Roof: 0.135 W/m2K</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:9.87778px;text-align:start;text-anchor:start;stroke-width:1"
+         x="177.96481"
+         y="213.65456"
+         id="tspan31">Wall: 0.14 W/m2K</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:9.87778px;text-align:start;text-anchor:start;stroke-width:1"
+         x="177.96481"
+         y="226.00179"
+         id="tspan32">Floor: 0.149 W/m2K</tspan></text>
+    <rect
+       style="opacity:1;fill:#00ffff;stroke:none;stroke-width:2.08918"
+       id="rect89464"
+       width="10"
+       height="22"
+       x="155.97697"
+       y="57.735561" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 21.068069,49.190084 H 153.35118 l -0.0161,-14.905291 19.54889,-0.01083"
+       id="path89954"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1.4745;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 154.60356,49.855975 0.022,-14.30761 h 16.43293"
+       id="path69443"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.264583"
+       x="88.43119"
+       y="67.265533"
+       id="text76180"><tspan
+         sodipodi:role="line"
+         id="tspan76178"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="88.43119"
+         y="67.265533">4.8m long joist is 100mm short at end</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="88.43119"
+         y="76.084984"
+         id="tspan91371">to allow thermal break</tspan></text>
+  </g>
+</svg>

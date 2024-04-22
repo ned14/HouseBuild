@@ -1,9 +1,10 @@
 # Quote
 
-Main house: €367,888 inc VAT to first fix. This is €1,234 inc VAT per sqm.
+Main house: €375,382 inc VAT to first fix. This is €1,294 inc VAT per sqm.
     - Timber frame _excluding insulation_ is €229,137 inc VAT. This is €769 inc VAT per sqm.
-    - Air tightness and exterior insulation is €55,508 inc VAT.
-    - Foundations is €64,322 inc VAT for the house, €18,921 inc VAT for the greenhouse minus pool, €20,541 inc VAT for the pool part alone (ouch!).
+    - Air tightness and exterior insulation is €63,002 inc VAT.
+    - Foundations is €64,322 inc VAT for the house, €18,921 inc VAT for the greenhouse minus pool,
+    €20,541 inc VAT for the pool part alone (ouch!).
 
 Outhouse: not quoted
 
